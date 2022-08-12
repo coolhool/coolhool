@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coolhool. I am working in a wind power energy company now. 
-- 👀 I’m interested in how to analyze data and bulid module by Matlab.
+- 👀 I’m interested in how to analyze data and bulid module related with Wind turbine by Matlab.
 - 🌱 I’m currently learning Matlab, simulink, Python now. 
 - 💞️ I’m looking to collaborate on any persion or project who also doing the similar things by Matlab or Python. 
 - 📫 How to reach me . My Email address is junjiang1984@126.com. Phone: +8613516179500. 
